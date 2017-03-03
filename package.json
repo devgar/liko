@@ -1,0 +1,19 @@
+{
+  "name": "liko",
+  "version": "0.0.0",
+  "description": "A simple cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js --test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devgar/liko.git"
+  },
+  "author": "Edgar Albalate <dev.gardo@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devgar/liko/issues"
+  },
+  "homepage": "https://github.com/devgar/liko#readme"
+}
