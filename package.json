@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/devgar/liko/issues"
   },
-  "homepage": "https://github.com/devgar/liko#readme"
+  "homepage": "https://github.com/devgar/liko#readme",
+  "dependencies": {
+    "commander": "^2.9.0"
+  }
 }
