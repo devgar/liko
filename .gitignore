@@ -1,3 +1,7 @@
 node_modules
-
+npm-debug.log
 pkg.json
+
+.*.swp
+.DS_Store
+._*
