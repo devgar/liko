@@ -1,1 +1,5 @@
 # LIKO
+
+# LICENSE
+
+[MIT](/LICENSE)
